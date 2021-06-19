@@ -3,6 +3,7 @@ Clone the repository into you local machine by typing
 ```
 $ git clone https://github.com/aiclub/AI-Marathon.git
 $ cd AI-Marathon
+$ cd Day-2
 ```
 Create a virtual environment. If you are new to virtual environments, refer [this](https://realpython.com/python-virtual-environments-a-primer/).
 Once you activate the environment, install the dependencies into you env by typing
