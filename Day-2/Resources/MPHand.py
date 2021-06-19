@@ -115,8 +115,8 @@ def main():
         img = detector.find_hands(img)
         lm_list = detector.find_position_pixels(img)
         ind_fi = detector.get_index_finger_tip(img, draw=True)
-        if len(lm_list) != 0:
-            print(lm_list[4])
+        # if len(lm_list) != 0:
+        #     print(lm_list[4])
 
         c_time = time.time()
         fps = 1/(c_time-p_time)
@@ -126,7 +126,8 @@ def main():
                     cv2.FONT_HERSHEY_PLAIN, 3, (255, 0, 0), 3)
 
         cv2.imshow("Images", img)
-        cv2.waitKey(1)
+        if cv2.waitKey(1) == 27:
+            finish = True
 
 
 if __name__ == "__main__":
