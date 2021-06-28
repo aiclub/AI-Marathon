@@ -1,8 +1,7 @@
 ## Day 03 - Introduction to AI
 
- - This session will give you information about the growing world of Artificial Intelligence and its subdomains like Neural Networks, Deep Learning, Machine Learning...
 
- - **Get the PPT of the session [here](https://docs.google.com/presentation/d/13YIdIiV4M_E28lNeh_B4MJzjSySnEJZFpYfJbhxkU64/edit#slide=id.ge1e1b9f37d_0_247)**
+ **Get the PPT of the session [here](https://docs.google.com/presentation/d/13YIdIiV4M_E28lNeh_B4MJzjSySnEJZFpYfJbhxkU64/edit#slide=id.ge1e1b9f37d_0_247)**
 
 
 ## Let’s play with AI !
